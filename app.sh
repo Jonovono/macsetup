@@ -37,7 +37,7 @@ brew cask install --appdir="/Applications" dayone
 brew cask install --appdir="/Applications" rescuetime
 brew cask install --appdir="/Applications" fantastical
 brew cask install --appdir="/Applications" backblaze
-# brew cask install --appdir="/Applications" flux
+brew cask install --appdir="/Applications" flux
 brew cask install --appdir="/Applications" spotify
 brew cask install --appdir="/Applications" hyper
 
